@@ -18,7 +18,7 @@ El proyecto utiliza el dataset de [MRI de tumores cerebrales de Kaggle](https://
 
 1. Clona el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/DAHDOR/cnn.git
 cd cnn
 ```
 
